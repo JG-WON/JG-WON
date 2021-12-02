@@ -5,4 +5,4 @@
 - Major: Management Information Systems
 - Interests: Datamining, TechFin, Deep learning, Credit rating, Prediction
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-WON&show_icons=true&theme=dark)
+/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
