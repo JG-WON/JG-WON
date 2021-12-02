@@ -11,8 +11,8 @@
 - Interests: Datamining, TechFin, Deep learning, Credit rating, Prediction
 
 ### Project
-- CNN 및 LRP를 활용한 설명 가능한 지능형 개인신용평가 모델 --> 2022
-- 씬파일러를 위한 APT스코어 개발(기웅정보통신) --> 2021
+- (2022) CNN 및 LRP를 활용한 설명 가능한 지능형 개인신용평가 모델
+- (2021) 씬파일러를 위한 APT스코어 개발(기웅정보통신)
 
 ### Competition
 - 한국지능정보시스템학회 2020 춘계학술대회 제1회 인공지능 응용 경진대회 장려상 수상
