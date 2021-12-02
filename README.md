@@ -8,3 +8,8 @@
 - Major: Management Information Systems
 - Interests: Datamining, TechFin, Deep learning, Credit rating, Prediction
 
+
+### Article
+
+
+### Conference
