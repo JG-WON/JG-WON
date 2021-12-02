@@ -5,4 +5,4 @@
 - Major: Management Information Systems
 - Interests: Datamining, TechFin, Deep learning, Credit rating, Prediction
 
-/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom
