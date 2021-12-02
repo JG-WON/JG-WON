@@ -5,4 +5,4 @@
 - Major: Management Information Systems
 - Interests: Datamining, TechFin, Deep learning, Credit rating, Prediction
 
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=appveyor&logoColor=FFFFFF"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-008000?style=flat&logo=3776AB&logoColor=FFFFFF"/></a>
