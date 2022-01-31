@@ -16,7 +16,7 @@
 
 ### Competition
 - 한국지능정보시스템학회 2020 춘계학술대회 제1회 인공지능 응용 경진대회 장려상 수상
-- 제9회 산업통상자원부 공공데이터 활용 BI 공모전 빅데이터분석 장려상 수상
+- 제9회 산업통상자원부 공공데이터 활용 BI 공모전 빅데이터분석 장려상 수상[(코드, 발표자료)](https://github.com/JG-WON/Competition/tree/main/%EC%A0%9C9%ED%9A%8C%20%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EC%9E%90%EC%9B%90%EB%B6%80%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20BI%20%EA%B3%B5%EB%AA%A8%EC%A0%84)/[(공모전 개요)](http://www.datacontest.kr/content/1)
 - 제2회 연세대학교 주최 지역 산업, 사회 혁신 프로젝트 공모전 우수상 수상
 
 ### Article
