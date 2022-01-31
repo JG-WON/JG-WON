@@ -20,8 +20,8 @@
 - 제2회 연세대학교 주최 지역 산업, 사회 혁신 프로젝트 공모전 우수상 수상
 
 ### Article
-- Won, J., & Hong, T. (2021). The Prediction of Cryptocurrency on Using Text Mining and Deep Learning Techniques: Comparison of Korean and USA Market. Knowledge Management Research, 22(2), 1-17.
-- Won, J., Hong, T., Bae, K. (2021). A Personal Credit Rating Using Convolutional Neural Networks with Transformation of Credit Data to Imaged Data and eXplainable Artificial Intelligence(XAI). The Journal of Information Systems, 30(4), 203-226 [링크](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002731960#listCita)
+- Won, J., & Hong, T. (2021). The Prediction of Cryptocurrency on Using Text Mining and Deep Learning Techniques: Comparison of Korean and USA Market. Knowledge Management Research, 22(2), 1-17.[(Article Link)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002731960#listCita)
+- Won, J., Hong, T., Bae, K. (2021). A Personal Credit Rating Using Convolutional Neural Networks with Transformation of Credit Data to Imaged Data and eXplainable Artificial Intelligence(XAI). The Journal of Information Systems, 30(4), 203-226 [(Article Link)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002799958)
 
 ### Conference
 - 원종관, 홍태호. (2020, November 11th). 딥러닝을 이용한 온라인 뉴스 기반 암호화폐 지수 예측 - 한국과 미국 시장 비교, 2020 한국IT서비스학회 추계학술대회.
